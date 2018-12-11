@@ -20,7 +20,7 @@ Count.py
 Delete.py  
 文字列削除に関するプログラム．  
 
-File_operation.py
+File_operation.py  
 ファイル操作に関するプログラム．  
 
 Sentence.py  
