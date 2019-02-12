@@ -1,6 +1,10 @@
 ﻿#!/usr/bin/env python
 #-*- coding:utf-8 -*-
 
+"""
+文字列削除用プログラム
+"""
+
 import re
 import os
 import zenhan

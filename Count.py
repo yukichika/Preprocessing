@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 
+"""
+計数用プログラム
+"""
+
 from collections import Counter
 import os
 import math

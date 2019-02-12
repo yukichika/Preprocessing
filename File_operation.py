@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+"""
+ファイル操作用プログラム
+"""
+
 import os
 import re
 import glob
